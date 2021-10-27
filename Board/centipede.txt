@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Quasari/Documents/EAGLE/projects/Centipede Shield/centipede.sch at 7/13/2020 8:21 PM
+
+Qty Value                      Device                     Package       Parts        Description                 
+1                              PINHD-2X20                 2X20          JP1          PIN HEADER                  
+2   1X2-3.5MM                  1X2-3.5MM                  1X2-3.5MM     PWR, SPEAKER 3.5mm Terminal block        
+1   ARDUINO_UNO_R3_SHIELDBASIC ARDUINO_UNO_R3_SHIELDBASIC UNO_R3_SHIELD B1           Arduino R3 Shield Footprint 
